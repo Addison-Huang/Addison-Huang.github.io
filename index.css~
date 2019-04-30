@@ -11,9 +11,5 @@
 
 #subtitle{
     font-size:28px;
-    color:red;
-}
+    
 
-body{
-    background-color:#D4AF37;
-}
