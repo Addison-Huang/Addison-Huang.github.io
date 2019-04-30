@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Google Page Rank Algorithm by Addison Huang
+    </title>
+  </head>
+  <body>
+    <div id="head">
+      Google Page Rank Algorithm
+    </div>
+    <br>
+    <br>
+    <div id="content">
+      <div class="subtitle">
+	Introduction
+      </div>
+      <p class ="text">
+	The Google Page Rank Algorithm was the first search algorithm used by google.
+      </p>
+      <div class = "subtitle">
+	History
+      </div>
+      <p class="text">
+	The Google Page Rank Algorithm was developed by Larry Page, the current CEO of Alphabet. The algorithm is named after him and the webpage. It was developed in 1996 in Stanford and introduced to the public in 1998. The algorithm was based off of Citation Analysis and Hyper Search. Citation Analysis was developed by Eugene Garfield in 1950 and measured the importance of documents through citations. Hyper Search was developed in 1997 by Massimo Marchiori. It measured relationships between webpages and the web. The Google Page Rank Algorithm is still in use today except Google has other ways of ranking pages now.
+      </p>
+      <br>
+      <div class="subtitle">
+	What is Google Page Rank Algorithm?
+      </div>
+      <p class="text">
+	It is a link anlysis algorithm which measures webpages based on "link popularity". Each webpage is given a numerical weighting depending on the number of incoming links and the number is influenced by relative importance. Pages linked by important webpages are deemed as important. The Google Page Rank Algorithm is based off of the webgraph. All incoming links are like votes for that page. Also, the algorithm is recursive.
+	<br>
+	<br>
+	Taken from wikipedia:
+	<br>
+	“The Pagerank algorithm outputs a probability distribution used to represent the likelihood that a person randomly clicking on links will arrive at any particular page.”
+      </p>
+      <div class="subtitle">
+	How to calculate pagerank:
+      </div>  
+      <p class="text">
+	
+	
+      </p>
+    </div>
+  </body>
+</html>
